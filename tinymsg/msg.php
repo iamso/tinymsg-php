@@ -6,7 +6,7 @@
  * @copyright  2016 Steve Ottoz
  * @license    MIT License http://opensource.org/licenses/MIT
  * @version    0.1.0
- * @link       https://github.com/iamso/tinymsg-client-php
+ * @link       https://github.com/iamso/tinymsg-php
  */
 
 /**
