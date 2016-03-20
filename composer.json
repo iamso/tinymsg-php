@@ -1,0 +1,17 @@
+{
+  "name": "tinymsg/msg",
+  "type": "library",
+  "description": "client for tiny real-time messaging server",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Steve Ottoz",
+      "email": "so@dev.so"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "tinymsg\\": "tinymsg"
+    }
+  }
+}
