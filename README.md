@@ -1,6 +1,6 @@
 # PHP Client for Tiny Msg
 
-Client for tiny real-time messaging server.
+Client for tiny real-time messaging server, see https://github.com/iamso/tinymsg.
 
 ## Install
 
